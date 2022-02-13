@@ -1,0 +1,16 @@
+body {
+    padding-top: 60px;
+}
+
+#heroImage {
+    background-image: url('img/heroImage.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 40vh;
+    min-height: 400px;
+}
+
+#navbarLogo {
+    height: 36px;
+    padding: 4px;
+}

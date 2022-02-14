@@ -46,8 +46,8 @@ h1, h2 {
     background-image: url('img/heroImage.jpg');
     background-position: center;
     background-size: cover;
-    height: 40vh;
-    min-height: 400px;
+    height: 35vh;
+    min-height: 200px;
 }
 
 #heroImageOverlay {
@@ -61,6 +61,11 @@ h1, h2 {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+#leadmineLogo img {
+    max-width: 100%;
+    width: 600px;
 }
 
 #navbarLogo {

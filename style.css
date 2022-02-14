@@ -7,9 +7,25 @@ body {
     color: #333;
 }
 
-.content-padding {
-    padding-left: 4rem;
-    padding-right: 4rem;
+.content-bottom {
+    padding-bottom: 4rem;
+}
+
+.content-top {
+    padding-top: 4rem;
+}
+
+.divider {
+    background-image: url('img/mapBg.jpg');
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+    letter-spacing: 0.2rem;
+    padding: 5rem;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 footer {
@@ -38,10 +54,6 @@ h1, h2 {
     background-color: rgba(0, 0, 0, 0.3);
     height: 100%;
     width: 100%;
-}
-
-#leadmine {
-    padding-bottom: 4rem;
 }
 
 #leadmineLogo {

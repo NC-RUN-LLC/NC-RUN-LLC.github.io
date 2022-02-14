@@ -2,6 +2,30 @@ body {
     padding-top: 60px;
 }
 
+#content {
+    background-color: whitesmoke;
+    color: #333;
+}
+
+.content-padding {
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
+footer {
+    align-items: center;
+    background-color: rgb(33,37,41);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    min-height: 100px;
+    padding-bottom: 0.5rem;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
 #heroImage {
     background-image: url('img/heroImage.jpg');
     background-position: center;
@@ -10,7 +34,32 @@ body {
     min-height: 400px;
 }
 
+#heroImageOverlay {
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 100%;
+    width: 100%;
+}
+
+#leadmine {
+    padding-bottom: 4rem;
+}
+
+#leadmineLogo {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 #navbarLogo {
     height: 36px;
     padding: 4px;
+}
+
+p {
+    font-size: 1.1rem;
+}
+
+.subtitle {
+    padding-bottom: 2rem;
 }

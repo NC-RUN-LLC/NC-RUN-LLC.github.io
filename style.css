@@ -64,6 +64,7 @@ h1, h2 {
 #heroText {
     color: white;
     font-size: 2rem;
+    font-weight: 500;
     letter-spacing: 0.1rem;
     text-align: center;
     text-transform: uppercase;

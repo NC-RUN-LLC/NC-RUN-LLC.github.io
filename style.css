@@ -57,11 +57,16 @@ h1, h2 {
     background-color: rgba(0, 0, 0, 0.3);
     display: flex;
     height: 100%;
+    justify-content: center;
     width: 100%;
 }
 
 #heroText {
     color: white;
+    font-size: 2rem;
+    letter-spacing: 0.1rem;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 #navbarLogo {

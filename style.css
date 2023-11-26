@@ -70,6 +70,12 @@ h1, h2 {
     text-transform: uppercase;
 }
 
+#longRangePlanImage {
+    border 2px solid;
+    margin: 1rem auto 2rem;
+    width: 700px;
+}
+
 #navbarLogo {
     height: 36px;
     padding: 4px;

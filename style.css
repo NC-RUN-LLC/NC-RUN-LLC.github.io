@@ -16,7 +16,7 @@ body {
 }
 
 .divider {
-    background-image: url('img/mapBg.jpg');
+    background-color: rgb(33,37,41);
     background-position: center;
     background-size: cover;
     color: white;

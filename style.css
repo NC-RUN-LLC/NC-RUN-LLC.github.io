@@ -85,6 +85,15 @@ p {
     font-size: 1.1rem;
 }
 
+.price {
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.space-top {
+    padding-top: 2rem;
+}
+
 .subtitle {
     padding-bottom: 2rem;
 }
